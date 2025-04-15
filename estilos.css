@@ -1,12 +1,11 @@
-/* Centralizar o conteúdo da div titulo (bandeira e título) */
+
 .titulo {
     text-align: center;
 }
 
-/* Outros estilos existentes */
 body {
-    font-family: Arial, sans-serif; /* Alteração da fonte para Arial */
-    background-color: #0095ff96; /* Fundo azul clarinho */
+    font-family: Arial, sans-serif; 
+    background-color: #0095ff96; 
     padding: 20px;
 }
 
